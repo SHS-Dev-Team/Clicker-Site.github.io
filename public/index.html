@@ -1,15 +1,16 @@
 <!doctype html>
 <html>
     <head>
-        <title>Clicker Wars 🤖</title>
+        <title>Clicker Wars</title>
         <!--<script src="scripts/script.js"></script>-->
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Roboto+Mono&display=swap" rel="stylesheet">
+        <script src="scripts/script.js"></script>
     </head>
     <body>
         <div id="header">
-            <h1>Clicker Wars</h1>
+            <h1>Clicker Wars 🤖</h1>
         </div> 
         <div id="contents">
             <span class="words">Click Count:
@@ -19,13 +20,5 @@
                 <button id="box" onclick="changeClick()">SPAM ME</button>
             </div>
         </div>
-        <script>
-            var bln = 0;
-            var count =0;
-            function changeClick(){ 
-                count+=1;
-                document.getElementById("count").innerHTML=count;
-            }
-        </script>
     </body>
 </html>
