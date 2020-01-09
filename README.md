@@ -5,7 +5,8 @@ Make sure you have node installed: https://nodejs.org/en/download/
 
 Setup
 ```
-npm install # "sudo install" for mac and linux
+git clone 
+npm install # "sudo npm install" for mac and linux
 
 ```
 
