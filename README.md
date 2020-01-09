@@ -11,5 +11,7 @@ npm install # "sudo npm install" for mac and linux
 
 ```
 
-
+After Setup, run
+'''npm start'''
+then visit localhost:3000
 
