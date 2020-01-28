@@ -1,6 +1,6 @@
 # Clicker-Site
 
- https://shs-dev-team.github.io/Clicker-Site.github.io/
+ https://shs-dev-team.github.io/Clicker-Site.github.io/public/index
  
  
 Similar to typeracer but for clicking 🤖
