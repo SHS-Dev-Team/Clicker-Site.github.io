@@ -1,4 +1,8 @@
 # Clicker-Site
+
+ https://shs-dev-team.github.io/Clicker-Site.github.io/
+ 
+ 
 Similar to typeracer but for clicking 🤖
 
 Make sure you have node installed: https://nodejs.org/en/download/
